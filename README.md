@@ -1,5 +1,3 @@
-# Car-Price-Predictor
-
 # Car Price Prediction Model
 
 ## Overview
